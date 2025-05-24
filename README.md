@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Peter!
-- 👀 I’m interested in Data Science and big data processing. 
+- 👀 I’m interested in Software Development and Data Science. 
 - 🌱 I’m currently learning more about Python Libraries and machine learning algorithms!
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me petershen02@gmail.com
